@@ -221,4 +221,4 @@ xcrun simctl uninstall booted com.printables.little-learners
 
 ## License
 
-This project is private. © 2026 — adapt freely for personal projects; reach out before redistributing.
+© 2026 Chris DiMarco. All rights reserved. The source is published for portfolio purposes; reach out before reusing or redistributing it.

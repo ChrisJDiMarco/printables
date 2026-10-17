@@ -32,3 +32,6 @@ fastlane/test_output
 .env
 .env.*
 !.env.example
+
+# Local AI-agent settings
+.claude/

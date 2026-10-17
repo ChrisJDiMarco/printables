@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls -la /Users/chrisdimarco/jarvis/projects/Printables/ 2>/dev/null && echo \"---\" && ls -la /Users/chrisdimarco/jarvis/projects/ | grep -i print)"
-    ]
-  }
-}
